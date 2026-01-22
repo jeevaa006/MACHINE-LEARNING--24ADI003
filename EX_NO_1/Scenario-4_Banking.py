@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load dataset (tab separated)
-df = pd.read_csv(r"C:\Users\Jeevadharan\Documents\ML\Exp 1\Temp4\marketing_campaign.csv", sep="\t")
+df = pd.read_csv(r"C:\Users\Jeevanantham\Documents\ML\Exp 1\Temp4\marketing_campaign.csv", sep="\t")
 
 # Dataset overview
 df.info()
