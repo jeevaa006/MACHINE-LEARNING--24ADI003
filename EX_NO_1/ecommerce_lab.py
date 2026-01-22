@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv(r"C:\Users\Jeevadharan\ML\temp\data.csv", encoding="latin1")
+df = pd.read_csv(r"C:\Users\Jeevanantham\ML\temp\data.csv", encoding="latin1")
 print(df.head())
 print(df.tail())
 df.info()
